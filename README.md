@@ -12,6 +12,6 @@ Script en Python para Termux que transforma texto en símbolos únicos (ej. `y =
 
 1. **Clonar repositorio:**
    ```bash
-   git clone [https://github.com/TU_USUARIO/cifrador.git](https://github.com/TU_USUARIO/cifrador.git)
+   git clone https://github.com/TU_USUARIO/cifrador.git
    cd cifrador
    
